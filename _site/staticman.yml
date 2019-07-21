@@ -1,0 +1,1675 @@
+ch1ex1:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 1"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_1/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex2:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 2"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_2/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+  
+
+ch1ex3:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 3"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_3/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex4:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 4"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_4/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex5:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 5"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_5/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex6:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 6"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_6/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex7:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 7"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_7/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex8:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 8"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_8/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex9:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 9"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_9/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex10:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 10"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_10/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex11:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 11"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_11/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex12:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 12"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_12/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex13:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 13"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_13/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex14:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 14"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_14/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex15:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 15"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_15/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex16:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 16"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_16/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex17:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 17"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_17/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex18:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 18"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_18/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex19:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 19"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_19/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch1ex20:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 1 Exercise 20"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/1-Introduction/exercises/ex_20/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex1:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 1"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_1/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex2:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 2"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_2/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex3:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 3"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_3answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex4:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 4"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_4/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex5:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 5"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_5/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex6:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 6"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_6/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex7:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 7"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_7/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex8:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 8"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_8/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex9:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 9"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_9/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex10:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 10"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_10/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex11:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 11"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_11/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex12:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 12"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_12/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex13:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 13"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_13/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex14:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 14"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_14/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch2ex15:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 2 Exercise 15"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/2-Intelligent-Agent/exercises/ex_15/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex1:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 1"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_1/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex2:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 2"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_2/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex3:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 3"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_3/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex4:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 4"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_4/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex5:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 5"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_5/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex6:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 6"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_6/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex7:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 7"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_7/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex8:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 8"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_8/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex9:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 9"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_9/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex10:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 10"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_10/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex11:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 11"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_11/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex12:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 12"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_12/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex13:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 13"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_13/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex14:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 14"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_14/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex15:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 15"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_15/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex16:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 16"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_16/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex17:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 17"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_17/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex18:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 18"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_18/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex19:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 19"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_19/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex20:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 20"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_20/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex21:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 21"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_21/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex22:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 22"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_22/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex23:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 23"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_23/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex24:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 24"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_24/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex25:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 25"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_25/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex26:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 26"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_26/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex27:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 27"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_27/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex28:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 28"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_28/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex29:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 29"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_29/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex30:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 30"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_30/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex31:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 31"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_31/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex32:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 32"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_32/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex33:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 33"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_33/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex34:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 34"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_34/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex35:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 35"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_35/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex36:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 36"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_36/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex37:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 37"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_37/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex38:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 38"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_38/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex39:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 39"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_39/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch3ex40:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 3 Exercise 40"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/3-Solving-Problems-By-Searching/exercises/ex_40/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex1:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 1"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_1/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex2:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 2"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_2/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex3:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 3"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_3/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex4:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 4"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_4/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex5:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 5"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_5/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex6:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 6"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_6/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex7:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 7"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_7/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex8:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 8"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_8/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex9:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 9"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_9/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex10:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 10"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_10/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex11:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 11"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_11/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex12:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 12"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_12/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex13:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 13"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_13/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex14:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 14"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_14/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex15:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 15"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_15/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex16:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 16"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_16/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch4ex17:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 4 Exercise 17"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/4-Beyond-Classical-Search/exercises/ex_17/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex1:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 1"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_1/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex2:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 2"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_2/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex3:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 3"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_3/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex4:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 4"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_4/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex5:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 5"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_5/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex6:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 6"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_6/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex7:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 7"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_7/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex8:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 8"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_8/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex9:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 9"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_9/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex10:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 10"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_10/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex11:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 11"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_11/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex12:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 12"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_12/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex13:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 13"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_13/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex14:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 14"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_14/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex15:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 15"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_15/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex16:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 16"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_16/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex17:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 17"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_17/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex18:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 18"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_18/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex19:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 19"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_19/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex20:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 20"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_20/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex21:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 21"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_21/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex22:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 22"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_22/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex23:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 23"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_23/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex24:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 24"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_24/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch5ex25:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 5 Exercise 25"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/5-Adversarial-Search/exercises/ex_25/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+  transforms:
+    message: "frontmatterContent"
+
+ch6ex1:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 1"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_1/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex2:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 2"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_2/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex3:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 3"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_3/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex4:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 4"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_4/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex5:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 5"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_5/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex6:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 6"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_6/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex7:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 7"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_7/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex8:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 8"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_8/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex9:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 9"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_9/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex10:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 10"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_10/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex11:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 11"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_11/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex12:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 12"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_12/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex13:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 13"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_13/answers/" 
+  requiredFields: ["Name", "Email", "message"]
+
+ch6ex14:
+  allowedFields: ["Name", "Email", "url", "message"]
+  branch: "master" 
+  commitMessage: "New Answer by {fields.Name} for chapter 6 Exercise 14"
+  filename: "answer-{fields.Name}-{@timestamp}"
+  format: "frontmatter"
+  extension: "md"
+  moderation: true
+  path: "markdown/6-Constraint-Satisfaction-Problems/exercises/ex_14/answers/" 
+  requiredFields: ["Name", "Email", "message"]
